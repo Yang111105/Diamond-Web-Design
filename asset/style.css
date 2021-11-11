@@ -1,0 +1,56 @@
+.margin-l-15 {
+  margin-left: 15px;
+}
+
+.margin-r-15 {
+  margin-right: 15px;
+}
+
+.margin-l-20 {
+  margin-left: 20px;
+}
+
+.margin-l-50 {
+  margin-left: 50px;
+}
+
+.margin-r-20 {
+  margin-right: 20px;
+}
+
+.margin-l-100 {
+  margin-left: 100px;
+}
+
+.margin-r-150 {
+  margin-right: 150px;
+}
+
+.margin-u-60 {
+  margin-top: 60px;
+}
+
+.padding-d-30 {
+  padding-bottom: 30px;
+}
+
+.padding-u-20 {
+  padding-top: 20px;
+}
+
+.margin-d-60 {
+  margin-bottom: 60px;
+}
+
+.color-main {
+  background-color: rgb(174, 175, 184);
+}
+
+.color-white {
+  background-color: white;
+}
+
+.color-nav {
+  background-color: rgba(72, 110, 185, 0.685);
+}
+

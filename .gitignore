@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+Diamond Price.ipynb
+
 # C extensions
 *.so
 
