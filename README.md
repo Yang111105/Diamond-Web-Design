@@ -1,5 +1,5 @@
 # Web-Design-Challenge
-## HW#11 Diamond Price Analysis Dashboard
+## Diamond Price Analysis Dashboard
 
 Known as the “Four C’s,” carat, clarity, color and cut collectively inform the price of a diamond.
 
